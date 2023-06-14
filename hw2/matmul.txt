@@ -1,0 +1,16 @@
+vm.drop_caches = 3
+[ 5231.079428] Turn PMU on Core 3
+[ 5231.079424] Turn PMU on Core 0
+[ 5231.079428] Turn PMU on Core 2
+[ 5231.079428] Turn PMU on Core 1
+[ 5231.079448] We have 6 configurable event counters on Core 0
+[ 5231.079448] We have 6 configurable event counters on Core 2
+[ 5231.079449] We have 6 configurable event counters on Core 3
+[ 5231.079453] We have 6 configurable event counters on Core 1
+[ 5231.079744] Ready to use PMU
+[ 5231.282961] sysctl (2025): drop_caches: 3
+[ 5233.973553] PMU Kernel Module Off
+[ 5233.973574] [Core 3]	Insts: 25111829, Misses: 151138, Refs: 9320658, Cycles: 33231171
+[ 5233.973576] [Core 2]	Insts: 65890541, Misses: 521814, Refs: 25531496, Cycles: 85473027
+[ 5233.973576] [Core 0]	Insts: 7665290908, Misses: 2705398, Refs: 3416645699, Cycles: 4567789749
+[ 5233.973576] [Core 1]	Insts: 10039173, Misses: 50508, Refs: 3782332, Cycles: 13165331

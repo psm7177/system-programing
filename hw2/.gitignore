@@ -1,4 +1,4 @@
 .vscode
-*.txt
+./part2/*.txt
 obj
 *.arcx

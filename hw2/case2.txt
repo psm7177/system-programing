@@ -1,0 +1,116 @@
+vm.drop_caches = 3
+unpacked file_60.txt
+unpacked file_4.txt
+unpacked file_13.txt
+unpacked file_55.txt
+unpacked file_94.txt
+unpacked file_15.txt
+unpacked file_88.txt
+unpacked file_69.txt
+unpacked file_99.txt
+unpacked file_90.txt
+unpacked file_58.txt
+unpacked file_78.txt
+unpacked file_73.txt
+unpacked file_10.txt
+unpacked file_71.txt
+unpacked file_64.txt
+unpacked file_1.txt
+unpacked file_57.txt
+unpacked file_87.txt
+unpacked file_95.txt
+unpacked file_43.txt
+unpacked file_98.txt
+unpacked file_47.txt
+unpacked file_36.txt
+unpacked file_91.txt
+unpacked file_86.txt
+unpacked file_20.txt
+unpacked file_93.txt
+unpacked file_22.txt
+unpacked file_61.txt
+unpacked file_8.txt
+unpacked file_66.txt
+unpacked file_40.txt
+unpacked file_97.txt
+unpacked file_52.txt
+unpacked file_45.txt
+unpacked file_50.txt
+unpacked file_38.txt
+unpacked file_23.txt
+unpacked file_62.txt
+unpacked file_3.txt
+unpacked file_21.txt
+unpacked file_49.txt
+unpacked file_59.txt
+unpacked file_83.txt
+unpacked file_85.txt
+unpacked file_89.txt
+unpacked file_2.txt
+unpacked file_19.txt
+unpacked file_84.txt
+unpacked file_12.txt
+unpacked file_56.txt
+unpacked file_65.txt
+unpacked file_33.txt
+unpacked file_30.txt
+unpacked file_96.txt
+unpacked file_9.txt
+unpacked file_41.txt
+unpacked file_48.txt
+unpacked file_63.txt
+unpacked file_35.txt
+unpacked file_72.txt
+unpacked file_16.txt
+unpacked file_80.txt
+unpacked file_68.txt
+unpacked file_6.txt
+unpacked file_26.txt
+unpacked file_46.txt
+unpacked file_92.txt
+unpacked file_44.txt
+unpacked file_29.txt
+unpacked file_79.txt
+unpacked file_53.txt
+unpacked file_5.txt
+unpacked file_37.txt
+unpacked file_82.txt
+unpacked file_14.txt
+unpacked file_32.txt
+unpacked file_39.txt
+unpacked file_18.txt
+unpacked file_25.txt
+unpacked file_67.txt
+unpacked file_77.txt
+unpacked file_74.txt
+unpacked file_54.txt
+unpacked file_27.txt
+unpacked file_42.txt
+unpacked file_34.txt
+unpacked file_28.txt
+unpacked file_100.txt
+unpacked file_31.txt
+unpacked file_11.txt
+unpacked file_24.txt
+unpacked file_7.txt
+unpacked file_17.txt
+unpacked file_76.txt
+unpacked file_75.txt
+unpacked file_70.txt
+unpacked file_81.txt
+unpacked file_51.txt
+[ 4524.449215] Turn PMU on Core 0
+[ 4524.449211] Turn PMU on Core 3
+[ 4524.449215] Turn PMU on Core 2
+[ 4524.449215] Turn PMU on Core 1
+[ 4524.449236] We have 6 configurable event counters on Core 1
+[ 4524.449236] We have 6 configurable event counters on Core 0
+[ 4524.449236] We have 6 configurable event counters on Core 3
+[ 4524.449243] We have 6 configurable event counters on Core 2
+[ 4524.449266] Ready to use PMU
+[ 4524.727199] sysctl (1824): drop_caches: 3
+[ 4527.250250] PMU Kernel Module Off
+[ 4527.250271] [Core 2]	Insts: 18951432, Misses: 112319, Refs: 7144841, Cycles: 25283505
+[ 4527.250272] [Core 1]	Insts: 50752638, Misses: 374141, Refs: 19473141, Cycles: 68373133
+[ 4527.250272] [Core 3]	Insts: 56620481, Misses: 437096, Refs: 22009981, Cycles: 71601943
+[ 4527.250273] [Core 0]	Insts: 1118494452, Misses: 4051176, Refs: 412896677, Cycles: 1081282105
